@@ -43,6 +43,4 @@ This Tableau Project
 
 ## My Dashboard
 [Link to My Dashboard]([)](https://mail.google.com/mail/u/0?ui=2&ik=423c19a905&attid=0.1&permmsgid=msg-a:r7961463368066105960&th=1975973a01c6adab&view=att&disp=inline&realattid=B3C1B5C5-F788-4CBF-8805-A4DA913B4394&zw)
-![image]([](https://mail.google.com/mail/u/0?ui=2&ik=423c19a905&attid=0.1&permmsgid=msg-a:r1581898827102411620&th=196ab35d6b5292a2&view=att&disp=inline&realattid=E0F19741-A8D0-4BA7-ADA3-A9BFE0345418&zw)) 
-! (image)([)](https://mail.google.com/mail/u/0?ui=2&ik=423c19a905&attid=0.1&permmsgid=msg-a:r8311320798081729704&th=19759767885356b7&view=att&disp=inline&realattid=FD50B9FF-AC7D-41B2-B7F1-668A81BA00A5&zw)
-! (image)([](https://mail.google.com/mail/u/0?ui=2&ik=423c19a905&attid=0.1&permmsgid=msg-a:r-4944839430215189674&th=196ab39b76f10229&view=att&disp=inline&realattid=BA040DEA-7254-495D-B333-45D99B3B83FB&zw))
+
